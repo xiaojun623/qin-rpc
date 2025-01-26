@@ -4,12 +4,12 @@
 
 基于 Java + Etcd + Vert.x + 自定义协议实现的高性能RPC框架。qin既是笔者名字，也表示这个RPC框架是轻量级的、易用的，开发者可以引入 Spring Boot Starter，通过注解和配置文件快速使用本框架，像调用本地方法一样轻松调用远程服务。本框架还支持通过 SPI 机制动态扩展序列化器、注册中心、负载均衡器、重试和容错策略等。
 
-开源地址：https://github.com/
+开源地址：https://github.com/xiaojun623/qin-rpc
 
 
 ## 项目架构
 架构图如下：
-![structure.png](docs/structure.png)
+![structure](./docs/structure.png)
 
 
 ## 项目模块
