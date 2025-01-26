@@ -1,0 +1,2 @@
+a=com.qin.qinrpc.serializer.JdkSerializer
+b=com.qin.qinrpc.serializer.HessianSerializer

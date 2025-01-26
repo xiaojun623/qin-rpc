@@ -1,0 +1,4 @@
+failBack=com.qin.qinrpc.fault.tolerant.FailBackTolerantStrategy
+failFast=com.qin.qinrpc.fault.tolerant.FailFastTolerantStrategy
+failOver=com.qin.qinrpc.fault.tolerant.FailOverTolerantStrategy
+failSafe=com.qin.qinrpc.fault.tolerant.FailSafeTolerantStrategy

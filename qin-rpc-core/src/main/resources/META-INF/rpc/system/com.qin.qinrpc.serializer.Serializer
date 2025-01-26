@@ -1,0 +1,4 @@
+jdk=com.qin.qinrpc.serializer.JdkSerializer
+hessian=com.qin.qinrpc.serializer.HessianSerializer
+json=com.qin.qinrpc.serializer.JsonSerializer
+kryo=com.qin.qinrpc.serializer.KryoSerializer
